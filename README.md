@@ -6,8 +6,8 @@
 
 ## Directory
 
-* To read the offical project report, view the [news-popularity-documentation.pdf]()
-* To see the data mining techniques employed using Python, view the [final.ipynb]()
+* To read the official project report, view the [news-popularity-documentation.pdf](news-popularity-documentation.pdf)
+* To see the data mining techniques employed using Python, view the [final.ipynb](final.ipynb)
 
 
 
