@@ -1,6 +1,7 @@
 # Data Mining: Online News Popularity
 
 ## Contributors
+* Megan Steinmasel
 * Michael Belmear
 * Rohan Kamat
 
